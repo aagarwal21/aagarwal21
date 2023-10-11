@@ -1,7 +1,7 @@
 <h2> Hi! I'm Anmol Agarwal. </h2>
 
 ### About
-I'm a security research.  This GitHub repository is a collection of academic projects from grad school as well as side projects. 
+I'm a security researcher.  This GitHub repository is a collection of academic projects from grad school as well as side projects. 
 
 ### Connect with me 
 [<img align="left" alt="anmolagarwal | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
